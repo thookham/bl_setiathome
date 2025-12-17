@@ -8,6 +8,10 @@ This project is built with [pybind11](https://github.com/pybind/pybind11).
 
 Danny Price and Sam Weissman
 
+## Updates
+
+Updated by [Travis Hookham](https://github.com/thookham) and Antigravity.
+
 ## Requirements
 
 * pybind11 >= 2.2
